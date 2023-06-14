@@ -1,0 +1,15 @@
+Sección A
+Descripción: Este sistema tiene como función fungir como una libreta de Direcciones con las funciones agregar, quitar, importar, buscar y 
+y desplegar todas las entradas del usuario. Funciona por medio de los constructores que tendrán los atributos básicos de cada entrada,
+en este caso su nombre y apellido, dirección, número de telefono y correo electrónico. 
+Dichas entradas se agruparán en la estructrua de Datos de Lista, la cual fue seleccionada debido a su rendimiento en tiempo de ejecución,
+su facilidad de búsqueda por medio de los índices, la flexibilidad de dicha estructura y la facilidad de uso.
+
+Sección B
+JavaDoc: Se encuentra en la rama Master
+
+Sección C
+UML: Se encuentra en la rama Master
+
+Sección D
+Evidencia: Se encuentra en la rama Master
