@@ -2,8 +2,15 @@ Sección A
 Descripción: Este sistema tiene como función fungir como una libreta de Direcciones con las funciones agregar, quitar, importar, buscar y 
 y desplegar todas las entradas del usuario. Funciona por medio de los constructores que tendrán los atributos básicos de cada entrada,
 en este caso su nombre y apellido, dirección, número de telefono y correo electrónico. 
+Dichas funciones tienen sus setters and getters para crear dichos atributos, además del método toString para imprimir cada atributo.
+
 Dichas entradas se agruparán en la estructrua de Datos de Lista, la cual fue seleccionada debido a su rendimiento en tiempo de ejecución,
-su facilidad de búsqueda por medio de los índices, la flexibilidad de dicha estructura y la facilidad de uso.
+su facilidad de búsqueda por medio de los índices, la flexibilidad de dicha estructura y la facilidad de uso. Esto se utiliza con los métodos
+de para importar entradas de archivos externos, agregar entradas, quitar entradas por medio del apellido, mostrar alfabeticamente todas las
+entradas y buscar las entradas por medio del apellido.
+
+Posteriormente se crea un menú el cual tendrá un método Display para mostrar todas las opciones con las que el usuario podrá trabajar durante
+la ejecución del código. En el caso de este código, todas las pruebas resultaron positivas, por lo tanto no presenta errores notables.
 
 Sección B
 JavaDoc: https://github.com/IskanderM08/LibretaDirecciones/tree/master
